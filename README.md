@@ -59,7 +59,4 @@ Este projeto foi desenvolvido para praticar:
 
 **Adriano Henrique Santos de Freitas**
 
-Estudante de Ciência da Computação
-
-GitHub:
-https://github.com/SEU-USUARIO
+Estudante de Ciência da Computação.
